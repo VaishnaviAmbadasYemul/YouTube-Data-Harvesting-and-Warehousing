@@ -36,12 +36,13 @@ The problem statement is to create a Streamlit application that allows users to 
 * import pandas as pd
   
 **Image**
+
   from PIL import Image
   
 **Dashboard libraries**
 * import streamlit as st
 
-# Project Overview:
+**APPROACH**:
 1.Set up a Streamlit app Streamlit is a great choice for building data visualization and analysis tools quickly and easily. You can use Streamlit to create a simple UI where users can enter a YouTube channel ID, view the channel details, and select channels to migrate to the data warehouse.
 
 2.Connect to the YouTube API You'll need to use the YouTube API to retrieve channel and video data. You can use the Google API client library for Python to make requests to the API.
@@ -57,3 +58,9 @@ The problem statement is to create a Streamlit application that allows users to 
 Overall, this approach involves building a simple UI with Streamlit, retrieving data from the YouTube API, storing the data SQL as a 
 warehouse, querying the data warehouse with SQL, and displaying the data in the Streamlit app.
 
+**References**
+
+- Streamlit Documentation: [https://docs.streamlit.io/](https://docs.streamlit.io/)
+- YouTube API Documentation: [https://developers.google.com/youtube](https://developers.google.com/youtube)
+- SQLAlchemy Documentation: [https://docs.sqlalchemy.org/](https://docs.sqlalchemy.org/)
+- Python Documentation: [https://docs.python.org/](https://docs.python.org/)
