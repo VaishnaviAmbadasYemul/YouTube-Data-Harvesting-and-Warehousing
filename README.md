@@ -32,9 +32,12 @@ The problem statement is to create a Streamlit application that allows users to 
 * import sqlalchemy
 * from sqlalchemy import create_engine
   
-**pandas
+**pandas**
 * import pandas as pd
-
+  
+**Image**
+  from PIL import Image
+  
 **Dashboard libraries**
 * import streamlit as st
 
