@@ -16,7 +16,7 @@ The problem statement is to create a Streamlit application that allows users to 
 
  ### 2. Requirement Libraries to Install
 
-* pip install google-api-python-client, mysql-connector-python, sqlalchemy, pymysql,streamlit.
+* pip install google-api-python-client, mysql-connector-python, sqlalchemy,streamlit.
 
  ### 3. Import Libraries
 
@@ -31,7 +31,9 @@ The problem statement is to create a Streamlit application that allows users to 
 * import mysql.connector
 * import sqlalchemy
 * from sqlalchemy import create_engine
-* import pymysql
+  
+**pandas
+* import pandas as pd
 
 **Dashboard libraries**
 * import streamlit as st
