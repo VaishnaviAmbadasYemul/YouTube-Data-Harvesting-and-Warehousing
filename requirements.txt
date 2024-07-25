@@ -1,0 +1,8 @@
+streamlit==1.23.1
+google-api-core==2.11.1
+google-api-python-client==2.89.0
+google-auth==2.20.0
+google-auth-httplib2==0.1.0
+SQLAlchemy==2.0.16
+mysql-connector-python==8.0.33
+mysql_connector_repackaged==0.3.1
